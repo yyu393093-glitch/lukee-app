@@ -1,0 +1,17 @@
+node_modules/
+dist/
+
+.env
+.env.local
+.env.*.local
+
+*.log
+cloudflared-tunnel*.log
+link-parser*.log
+share-server*.log
+vite-dev.log
+
+tools/
+
+.DS_Store
+Thumbs.db
